@@ -32,8 +32,5 @@
 <p align="left">I'm an MBA student specializing in Business Analytics. I blend business strategy with advanced data analytics to solve real-world problems, build data-driven solutions, and drive business growth. Passionate about frontend development and continuously learning new ways to merge technology with business to make impactful decisions.</p>
 
 <h3 align="left">Some of My Projects:</h3>
-<ul>
-  <li><a href="https://github.com/sachin-shimpi/project1" target="_blank">Project 1: Data Dashboard</a> - A web app for visualizing key business metrics.</li>
-  <li><a href="https://github.com/sachin-shimpi/project2" target="_blank">Project 2: Business Analytics Model</a> - A machine learning model to predict sales trends.</li>
-</ul>
+
 
