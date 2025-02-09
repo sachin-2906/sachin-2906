@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-image: url('https://your-image-url.com/background.jpg');
+      background-size: cover;
+      background-position: center;
+      color: white; /* Text color, adjust based on image contrast */
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Sachin Shimpi</h1>
 <h3 align="center">An MBA Student | Business Analytics Enthusiast | Frontend Developer</h3>
 
@@ -31,6 +46,5 @@
 <h3 align="left">About Me:</h3>
 <p align="left">I'm an MBA student specializing in Business Analytics. I blend business strategy with advanced data analytics to solve real-world problems, build data-driven solutions, and drive business growth. Passionate about frontend development and continuously learning new ways to merge technology with business to make impactful decisions.</p>
 
-<h3 align="left">Some of My Projects:</h3>
-
-
+</body>
+</html>
