@@ -6,7 +6,7 @@
       background-image: url('https://your-image-url.com/background.jpg');
       background-size: cover;
       background-position: center;
-      color: white; /* Text color, adjust based on image contrast */
+      color: sky blue; /* Text color, adjust based on image contrast */
       font-family: Arial, sans-serif;
     }
   </style>
